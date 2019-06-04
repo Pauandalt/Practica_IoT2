@@ -17,6 +17,7 @@ Imagine ahora que Ud. forma parte de una empresa especializada en el envió de p
 
 
 ## Resolución del caso 2: Paquetería frigorífica
-[![IMAGE ALT TEXT HERE] (Video_Cadena_Del_Frío.PNG)](https://www.youtube.com/watch?time_continue=38&v=bgNyL_DlMJc)
+
+[![IMAGE ALT TEXT HERE](Video_Cadena_Del_Frío.PNG)](https://www.youtube.com/watch?time_continue=38&v=bgNyL_DlMJc)
 
 
