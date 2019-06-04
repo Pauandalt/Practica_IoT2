@@ -10,3 +10,13 @@ Imagine que Ud. es el gerente de un parking subterráneo de 5 plantas. El Parkin
 
 ![alt Text](Parking_Lot.PNG)
 
+
+## Caso 2: Paquetería frigorífica
+
+Imagine ahora que Ud. forma parte de una empresa especializada en el envió de paquetes frigoríficos. Desde hace años muchas de las empresas especializadas en  paquetería emplean sensores GPS para la localización de sus envíos. Qué podríamos añadir a estos datos de GPS para que tanto el repartidor como el proveedor y cliente pudieran aprovechar de mejor manera los datos del paquete.
+
+
+## Resolución del caso 2: Paquetería frigorífica
+[![IMAGE ALT TEXT HERE] (Video_Cadena_Del_Frío.PNG)](https://www.youtube.com/watch?time_continue=38&v=bgNyL_DlMJc)
+
+
