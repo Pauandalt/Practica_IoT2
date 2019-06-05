@@ -15,7 +15,7 @@ Imagine que Ud. es el gerente de un parking subterráneo de 5 plantas. El Parkin
 Imagine ahora que Ud. forma parte de una empresa especializada en el envió de paquetes frigoríficos. Desde hace años muchas de las empresas especializadas en  paquetería emplean sensores GPS para la localización de sus envíos. Qué podríamos añadir a estos datos de GPS para que tanto el repartidor como el proveedor y cliente pudieran aprovechar de mejor manera los datos del paquete.
 
 ## Caso 3: Gestión de una sala de cine
-Ud. es ahora el gerente de una sala de cines de Madrid. Despúes de atender este curso, ha decidido invertir en sensorizar por completo la sala de cine. ¿Es una buena idea? Y si es así, ¿dónde colocaría los sensores y para qué?
+Ud. es ahora el gerente de una sala de cines de Madrid. Después de atender este curso, ha decidido invertir en sensorizar por completo la sala de cine. ¿Es una buena idea? Y si es así, ¿dónde colocaría los sensores y para qué?
 
 ![alt text](cine.jpg)
 
@@ -23,7 +23,7 @@ Ud. es ahora el gerente de una sala de cines de Madrid. Despúes de atender este
 
 ## Resolución del caso 1: Gestión de un parking
 
-A día de hoy existen multipes ejemplos de sensorización a la hora de aparcar los coches. Los sensores informar a los conductores mediante luces verdes y rojas sobre el estado las plazas de aparcamiento. Además, pueden colocarse sensores de detección de proximidad que indiquen al conductor mediante un sonido si va a chocar con una columna o pared. 
+A día de hoy existen múltipes ejemplos de sensorización a la hora de aparcar los coches. Los sensores informar a los conductores mediante luces verdes y rojas sobre el estado las plazas de aparcamiento. Además, pueden colocarse sensores de detección de proximidad que indiquen al conductor mediante un sonido si va a chocar con una columna o pared. 
 
 En cuanto a los datos que recibimos de los sensores, se puede resaltar que son de gran utilidad para la gestión del parking. Estos datos se pueden analizar de manera que obtengamos las tendencias de los usuarios para aparcar y de esta manera gestionar de una mejor manera la disponibilidad de los mismos. Por otro lado, se podrían resaltar datos como el tiempo medio de aparcamiento por usuario, la disponibilidad de las plazas por época del año etc. Todos estos datos, nos podrán ayudar a gestionar de una mejor manera las tarifas y usus de nuestro complejo.
 
